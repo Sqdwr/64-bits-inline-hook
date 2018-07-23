@@ -1,0 +1,5 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  MyDriver1.vcxproj -> C:\Users\Lenovo\Desktop\升级版inline hook\Debug\MyDriver1.sys
+  MyDriver1.vcxproj -> C:\Users\Lenovo\Desktop\升级版inline hook\Debug\MyDriver1.pdb (Full PDB)
+  Inf2Cat task was skipped as there were no inf files to process
+  
